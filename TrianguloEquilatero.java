@@ -2,20 +2,26 @@ import java.util.Scanner;
 public class TrianguloEquilatero
 {  public static void main(String[] arg)
     {
-  System.out.println("Dame un numero");
+  System.out.println("Dame el lado");
   Scanner in = new Scanner(System.in);
-  int lado = in.nextInt();
+  double lado = in.nextInt();
   in.close();
-  //System.out.printf("El número dado es %d", lado);
-  int perimetro = mostrarPerimetro(lado);
-  System.out.printf("El perimetro es %d", perimetro);
+  double area = calcularArea(lado);
+    
+  double perimetro = mostrarPerimetro(lado);
+  System.out.printf("El perimetro es del triangulo rectángulo de lado %.2f tiene de perimetro %.2f y su area %.2f es:",lado, perimetro,area);
     }
 
-    public static int mostrarPerimetro (int lado)
+    public static double mostrarPerimetro (double lado)
     {
-        int perimetro;
+        double perimetro;
         perimetro = 3*lado;
         return perimetro;
     }
+
+    public static double calcularArea(double lado)
+    {
+		return Math.sqrt(3)/4*lado*lado;
+	}
 }
-//Julio DO SOMETHING
+//Antes de Push haz un Pull
