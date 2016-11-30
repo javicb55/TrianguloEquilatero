@@ -6,7 +6,7 @@ public class MetodoArea {
         int base = in.nextInt();
         double altura = Math.sqrt((3*base*base/4));
         double area = (base*altura)/2;
-        System.out.printf("El area del triangulo es: "+ area);
+        System.out.printf("El area del triangulo es: %2.f", area);
         in.close();
         
 
