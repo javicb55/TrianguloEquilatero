@@ -1,0 +1,61 @@
+[33mcommit 5a2300c0aaea259fe07e0860d12629af265e8572[m
+Author: Pepe <[javicb55@gmail.com]>
+Date:   Wed Nov 30 14:04:15 2016 +0100
+
+    hola
+
+[33mcommit 5d90bc0564b9abc6c4bc9eb8d515ca593a1861aa[m
+Author: Pepe <[javicb55@gmail.com]>
+Date:   Wed Nov 30 13:31:17 2016 +0100
+
+    Version 1.0
+
+[33mcommit 3e2334b0e0893e8f895f443be12960a152a13748[m
+Merge: 39742a2 53186f8
+Author: Julio Navarro <[julio.navarro.anguita@gmail.com]>
+Date:   Wed Nov 30 13:24:51 2016 +0100
+
+    areadefinitiva
+
+[33mcommit 39742a239fb1fb43d3109de562539455c69d6aaf[m
+Author: Julio Navarro <[julio.navarro.anguita@gmail.com]>
+Date:   Wed Nov 30 13:23:56 2016 +0100
+
+    areadefinitiva
+
+[33mcommit 53186f84f88cac22465becaac89b398ea65ab553[m
+Author: JulioNavarroAnguita <julio.navarro.anguita@gmail.com>
+Date:   Wed Nov 30 12:57:24 2016 +0100
+
+    Update MetodoArea.java
+
+[33mcommit bf1453780e62d82003b16a26308259dc2730544d[m
+Merge: 6c5876a 171018a
+Author: Julio Navarro <[julio.navarro.anguita@gmail.com]>
+Date:   Wed Nov 30 12:52:10 2016 +0100
+
+    prueba area
+
+[33mcommit 171018a8856e6e101e63e5595a09e6c9eb6437c5[m
+Author: Pepe <[javicb55@gmail.com]>
+Date:   Tue Nov 29 12:53:50 2016 +0100
+
+    funciona
+
+[33mcommit b02f593887295d934b34e3fd386e8cbdbcfa541d[m
+Author: Pepe <[javicb55@gmail.com]>
+Date:   Tue Nov 29 12:49:31 2016 +0100
+
+    pruebaTriangulo
+
+[33mcommit ea3d44751d532b834adc7cf72ac8c825c8a5a483[m
+Author: javicb55 <javicb55@hotmail.com>
+Date:   Tue Nov 29 12:06:44 2016 +0100
+
+    Initial commit
+
+[33mcommit 6c5876ae9b33fb5ac73cbbd434bc387cdb25e391[m
+Author: Julio Navarro <[julio.navarro.anguita@gmail.com]>
+Date:   Tue Nov 29 11:59:08 2016 +0100
+
+    prueba1
